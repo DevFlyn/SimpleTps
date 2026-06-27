@@ -1,0 +1,17 @@
+name: SimpleTps
+version: 1.0.0
+main: me.yourname.simpletps.SimpleTps
+api-version: '1.21'
+author: Flynzlol
+description: A Tpa Plugin with configurable prefix for practice servers.
+commands:
+  tpa:
+    description: Request teleport
+  tpahere:
+    description: Request teleport here
+  tpaccept:
+    description: Accept request
+  tpadeny:
+    description: Deny request
+  tpacancel:
+    description: Cancel request
